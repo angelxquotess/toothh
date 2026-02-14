@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-02-14T17:22:49.057200",
+  "tests_run": 9,
+  "tests_passed": 9,
+  "success_rate": 100.0,
+  "test_results": [
+    {
+      "name": "Health Check",
+      "success": true,
+      "details": "Status: healthy, Service: toothless-dashboard",
+      "timestamp": "2026-02-14T17:22:48.512203"
+    },
+    {
+      "name": "Bot Info",
+      "success": true,
+      "details": "Bot: Toothless, Commands: 69, Categories: 8",
+      "timestamp": "2026-02-14T17:22:48.583881"
+    },
+    {
+      "name": "Discord Auth URL",
+      "success": true,
+      "details": "URL received (length: 186)",
+      "timestamp": "2026-02-14T17:22:48.642914"
+    },
+    {
+      "name": "Guild Data",
+      "success": true,
+      "details": "Guild: Server Demo, Channels: 5, Roles: 5",
+      "timestamp": "2026-02-14T17:22:48.736266"
+    },
+    {
+      "name": "Welcomer Save",
+      "success": true,
+      "details": "Configuration saved successfully",
+      "timestamp": "2026-02-14T17:22:48.815749"
+    },
+    {
+      "name": "Bot Invite URL",
+      "success": true,
+      "details": "Invite URL generated successfully",
+      "timestamp": "2026-02-14T17:22:48.872520"
+    },
+    {
+      "name": "Log Settings Save",
+      "success": true,
+      "details": "Saved successfully",
+      "timestamp": "2026-02-14T17:22:48.928839"
+    },
+    {
+      "name": "Ticket Settings Save",
+      "success": true,
+      "details": "Saved successfully",
+      "timestamp": "2026-02-14T17:22:48.998046"
+    },
+    {
+      "name": "Level Settings Save",
+      "success": true,
+      "details": "Saved successfully",
+      "timestamp": "2026-02-14T17:22:49.057147"
+    }
+  ]
+}
