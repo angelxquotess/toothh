@@ -1,0 +1,10 @@
+{
+  "123456789": {
+    "enabled": true,
+    "announceChannelId": "level_channel_123",
+    "xpPerMessage": {
+      "min": 15,
+      "max": 25
+    }
+  }
+}

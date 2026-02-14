@@ -1,0 +1,8 @@
+{
+  "123456789": {
+    "enabled": true,
+    "categoryId": "ticket_cat_123",
+    "supportRoleId": "support_role_456",
+    "welcomeMessage": ""
+  }
+}

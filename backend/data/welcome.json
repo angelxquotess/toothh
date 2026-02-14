@@ -1,0 +1,11 @@
+{
+  "123456789": {
+    "enabled": true,
+    "channelId": "test_channel_123",
+    "message": "Benvenuto {user} nel server {server}!",
+    "embed": null,
+    "roleId": "test_role_456",
+    "leaveEnabled": false,
+    "leaveMessage": ""
+  }
+}
